@@ -1,13 +1,14 @@
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-gray-100 px-4 py-12">
       <div className="mx-auto max-w-2xl rounded-xl bg-white p-8 shadow">
         <h1 className="mb-2 text-3xl font-bold text-gray-900">
-          Booking App
+          Appointment Booking
         </h1>
 
         <p className="mb-8 text-gray-600">
-          Book your preferred time slot.
+          Select your preferred date and time to book an appointment.
         </p>
 
         <form className="space-y-5">
